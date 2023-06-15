@@ -13,9 +13,9 @@ import javax.swing.table.DefaultTableModel;
  */
 public class Datos extends javax.swing.JPanel {
 
-    /**
-     * Creates new form Datos
-     */
+    /* /**
+    * Creates new form Datos
+    */
     public Datos() {
         initComponents();
         Mostrar();

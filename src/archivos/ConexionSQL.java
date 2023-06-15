@@ -9,10 +9,10 @@ public class ConexionSQL {
     public static Connection getConexion(){
         
      
-        String conexionUrl  = "jdbc:sqlserver://localhost:58075;" +
+        String conexionUrl  = "jdbc:sqlserver://localhost:21208;" +
      "databaseName=UsersDB;"
                 + "user=sa;"
-                + "password=itr2023;" +
+                + "password=itr23;" +
      "encrypt=true;trustServerCertificate=true";
         
         
